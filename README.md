@@ -38,6 +38,6 @@ International Movies and Dramas are the top genres, reflecting a strong global (
 └── README.md
 
 🚀 What I'd Do Next
-Add year-over-year growth % as a calculated DAX measure
-Build a content recommendation logic based on genre/rating clusters
-Automate data refresh from a live source instead of a static CSV
+Add year-over-year growth % as a calculated DAX measure.
+Build a content recommendation logic based on genre/rating clusters.
+Automate data refresh from a live source instead of a static CSV.
