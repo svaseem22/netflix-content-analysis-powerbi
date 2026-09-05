@@ -29,12 +29,6 @@ TV-MA and TV-14 are the dominant ratings, indicating Netflix's catalog skews tow
 International Movies and Dramas are the top genres, reflecting a strong global (non-US-centric) content strategy.
 🖼️ Preview
 
-<img width="1148" height="690" alt="image" src="https://github.com/user-attachments/assets/18994c11-48ba-4394-a66b-44ae10f4aede" />
-
-<img width="1151" height="693" alt="image" src="https://github.com/user-attachments/assets/0d59c4f4-3ac3-4e57-9074-6b39e83d332a" />
-
-
-
 ![Summary Dashboard](Screenshots/Overview%20DashBoard.JPG)
 ![Title Detail View](Screenshots/Single%20Title%20View.JPG)
 
