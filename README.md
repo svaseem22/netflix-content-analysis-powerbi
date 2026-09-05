@@ -35,8 +35,8 @@ International Movies and Dramas are the top genres, reflecting a strong global (
 
 
 
-![Summary Dashboard](Screenshots/Overview DashBoard.JPG)
-![Title Detail View](Screenshots/Single Title View.JPG)
+![Summary Dashboard](Screenshots/Overview%20DashBoard.JPG)
+![Title Detail View](Screenshots/Single%20Title%20View.JPG)
 
 📂 Repository Contents
 ├── netflix_dashboard.pbix       # Power BI dashboard file
