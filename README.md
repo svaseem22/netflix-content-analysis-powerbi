@@ -30,17 +30,19 @@ International Movies and Dramas are the top genres, reflecting a strong global (
 🖼️ Preview
 
 <img width="1148" height="690" alt="image" src="https://github.com/user-attachments/assets/18994c11-48ba-4394-a66b-44ae10f4aede" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c5656935-f2e7-4f3f-8e54-17b2da86dd2f" />
 
+<img width="1151" height="693" alt="image" src="https://github.com/user-attachments/assets/0d59c4f4-3ac3-4e57-9074-6b39e83d332a" />
 
 
 
 ![Summary Dashboard](screenshots/summary-dashboard.png)
 ![Title Detail View](screenshots/title-detail.png)
+
 📂 Repository Contents
 ├── netflix_dashboard.pbix       # Power BI dashboard file
 ├── screenshots/                 # Dashboard preview images
 └── README.md
+
 🚀 What I'd Do Next
 Add year-over-year growth % as a calculated DAX measure
 Build a content recommendation logic based on genre/rating clusters
